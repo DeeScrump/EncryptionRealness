@@ -12,6 +12,6 @@ Create a password generator based on inputs from the user
 ![The Password Generator application displays a red button to "Generate Password".](./images/landingpage.png)
 
 ### URL and Github Pages: 
-1. Repository:      git@github.com:DeeScrump/EncryptionRealness.git
+1. Repository:      https://github.com/DeeScrump/EncryptionRealness.git
 
 2. Live Website:    https://deescrump.github.io/EncryptionRealness/
