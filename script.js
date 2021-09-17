@@ -43,10 +43,10 @@ function writePassword() {
       window.alert("no capital letters, got it");
     } else if (userUpper == null) {
       window.alert("please respond y or n");
-      y();
+      upperCase();
     } else {
       window.alert("please respond y or n");
-      y();
+      upperCase();
       return;
     }
   };
@@ -67,10 +67,10 @@ function writePassword() {
       window.alert("no lowercase letters, got it");
     } else if (userLower == null) {
       window.alert("please respond y or n");
-      y();
+      lowerCase();
     } else {
       window.alert("please respond y or n");
-      y();
+      lowerCase();
       return;
     }
   };
@@ -91,10 +91,10 @@ function writePassword() {
       window.alert("no special characters, got it");
     } else if (userCharSpec == null) {
       window.alert("please respond y or n");
-      y();
+      specialCharacter();
     } else {
       window.alert("please respond y or n");
-      y();
+      specialCharacter();
       return;
     }
   };
